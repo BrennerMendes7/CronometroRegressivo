@@ -1,0 +1,52 @@
+html {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+    margin-top: 5em;
+}
+
+h1 {
+    color: red; 
+    text-align: center;
+    font-size: 50px; 
+}
+
+#contador {
+    font-size: 150px; 
+    text-align: center; 
+}
+
+.botoes {
+    text-align: center;
+    margin-top: 40px;
+}
+
+#botao-iniciar {
+    background-color: rgb(38, 182, 38);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    width: 110px;
+    height: 45px;
+    outline: none;
+}
+
+#botao-voltar {
+    background-color: rgb(39, 157, 212);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    width: 110px;
+    height: 45px;
+    margin-left: 10px;
+    outline: none;
+}
+
+#botao-pausar {
+    background-color: red;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    width: 110px;
+    height: 45px;
+    margin-left: 10px;
+    outline: none;
+}
